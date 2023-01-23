@@ -1,4 +1,4 @@
-# forbidden knowledge revealed
+# Forbidden Knowledge Revealed
 ## _Go zero to hero in IT_
 version: 0.0.6 Beta
 
