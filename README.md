@@ -9,8 +9,6 @@ The book of forbidden knowledge is a collection of useful resources in the IT fi
 - Must be an organization compared to a company
 - Must support a good cause 
 
-Suggestions are always welcome and encouraged. Please do not hesitate to open a issue for a suestion.
-
 ## TV
 -----
 - [iptv] - iptv is a github repo that supports and lists free (and even legal) TV channels for anyone to watch(some can be georestricted)
@@ -76,7 +74,7 @@ Suggestions are always welcome and encouraged. Please do not hesitate to open a 
 - add more category
 - add more tools
 
-Any suggestions areappreciated
+Suggestions are always welcome and encouraged. Please do not hesitate to open a issue for a suggestion.
 
 [//]:#
    [Internet archives]: <https://archive.org/>
