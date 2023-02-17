@@ -70,6 +70,10 @@ The book of forbidden knowledge is a collection of useful resources in the IT fi
 - [Asteroid OS] - A ROM for smart watches. Because it is open-source anyone can make a app or another OS out of it. <img src="https://img.shields.io/badge/tested-semi--recommended-yellow">
 - [OpenSourceSmartGlasses] - A Smartglass OS that can be 3D printed and put together by yourself. They also have [WearableIntelligenceSystem] on another repo and their website <img src="https://img.shields.io/badge/untested-no%20comment-lightgrey">
 
+###### Donations 
+
+<img src="https://img.shields.io/badge/xmr-4AiDxbWjPNoYS5xndDfzbzJkmh1HF55Le4KZLwLgSNhN7VSCpY7FuhXQ6jw9uas7AvPHbT8XyjzRoRSNdrGNCA493m1ZYn9-blue">
+
 ###### Todo list
 - improve spelling and grammar
 - add more category
