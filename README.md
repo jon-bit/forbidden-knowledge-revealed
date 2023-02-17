@@ -12,6 +12,7 @@ The book of forbidden knowledge is a collection of useful resources in the IT fi
 ## TV
 -----
 - [iptv] - iptv is a github repo that supports and lists free (and even legal) TV channels for anyone to watch(some can be georestricted)[Curently disabled. Don't know when or if it will be back up.]
+- <img src="https://img.shields.io/badge/tested-recommended-green">
 - [tvheadend] - tvheadend is a software that can be installed on a raspberry pi and can be used with a TV antenna or [iptv] to record or stream shows.
 
 ## SBC (Single Board Computers)
