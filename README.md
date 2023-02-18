@@ -10,9 +10,9 @@ The book of forbidden knowledge is a collection of useful resources in the IT fi
 - Must support a good cause 
 
 ### Ranking
-:red_circle: = Not recommended for new users\n
+:red_circle: = Not recommended for new users/n
 :yellow_circle: = Recommended only for certain people and scenarios
-:green_circle:	= Recommended for new users\n
+:green_circle:	= Recommended for new users/n
 :small_red_triangle:	= improved from a earlier version of the forbidden knowledge
 :small_red_triangle_down: = worse from a earlier version of the forbidden knowledge
 :black_circle:	= Not tested(No Comment)
