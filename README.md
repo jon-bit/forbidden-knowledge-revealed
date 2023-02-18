@@ -52,7 +52,7 @@ The book of forbidden knowledge is a collection of useful resources in the IT fi
 
 ##### Easy
 - :yellow_circle: [Pop OS] - Pop OS is a linux distro created by system-76 that makes linux computers.
-- :green_circle: [Cent OS] - Cent OS is most likely the best RPM distro for beginners. It was built off the source code of RHEL. (TO BE UPDATED)
+- :green_circle: [Cent OS] - Cent OS is most likely the best RPM distro for beginners. It was built off the source code of RHEL. (:warning: TO BE UPDATED)
 - :green_circle: [Kali] - Kali is the best free OS for pen-testers and ethical-hackers.
 - 
 ##### Intermediate
@@ -67,7 +67,7 @@ The book of forbidden knowledge is a collection of useful resources in the IT fi
 
 ##### Expert
 - :yellow_circle: [Qubes OS] - One of the stongest linux distros. Uses compartmentalization by using multiple VMs.
-- :red_circle: [Nix OS] - (To be finished later)
+- :red_circle: [Nix OS] - (:warning: To be finished later)
 - :red_circle: [Slackware] - One of the oldest and still maintained linux distros.
 - 
 #### Mobile
