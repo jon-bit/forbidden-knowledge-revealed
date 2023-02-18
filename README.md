@@ -89,8 +89,8 @@ The book of forbidden knowledge is a collection of useful resources in the IT fi
 - :green_circle: [Librewolf] - A fork of Firefox. Out of the box better then Firefox for it comes with ublock origin, and other about:config options hardening it.
 
 ## Digrams
-###Tor
-####Reguler Websites
+### Tor
+#### Reguler Websites
 flowchart LR
 	12["Tor User"] --- 8(("Tor node #1"))
 	1(("Tor node #2")) --- 8(("Tor node #1"))
@@ -100,7 +100,7 @@ flowchart LR
 	13["13"]
 	16(("Tor node #3"))
 
-####Hidden Service
+#### Hidden Service
 flowchart LR
 	12["Tor User"] --- 8(("Tor node #1"))
 	1(("Tor node #2")) --- 8(("Tor node #1"))
