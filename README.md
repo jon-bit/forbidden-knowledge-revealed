@@ -82,6 +82,12 @@ The book of forbidden knowledge is a collection of useful resources in the IT fi
 - :yellow_circle: [Asteroid OS] - A ROM for smart watches. Because it is open-source anyone can make a app or another OS out of it.
 - :black_circle: [OpenSourceSmartGlasses] - A Smartglass OS that can be 3D printed and put together by yourself. They also have [WearableIntelligenceSystem] on another repo and their website <img src="https://img.shields.io/badge/untested-no%20comment-lightgrey">
 
+## Browser
+---------------------------------------
+- :green_circle: [Brave] - Brave is a browser that is based on chromium(googles open source version of google chrome). It is almost better then chrome out of the box in every way. It blocks adds/trackers, upgrades to HTTPS, fingerprinting, and even cross site cookies by default.
+- :yellow_circle: [Tor] - Tor is a browser made by the U.S. N.R.L. (Navel research laboratory). It is (one of) the only way to access .onion links. When you access onion links you stay in an encrypted network and no one can see your traffic on the exit node. (Diagram coming soon)
+- :green_circle: [Librewolf] - A fork of Firefox. Out of the box better then Firefox for it comes with ublock origin, and other about:config options hardening it.
+
 ###### Donations 
 
 <img src="https://img.shields.io/badge/xmr-4AiDxbWjPNoYS5xndDfzbzJkmh1HF55Le4KZLwLgSNhN7VSCpY7FuhXQ6jw9uas7AvPHbT8XyjzRoRSNdrGNCA493m1ZYn9-blue">
@@ -124,3 +130,6 @@ Suggestions are always welcome and encouraged. Please do not hesitate to open a 
    [Open Pilot]: <https://comma.ai/>
    [OpenSourceSmartGlasses]: <https://github.com/TeamOpenSmartGlasses/OpenSourceSmartGlasses>
    [WearableIntelligenceSystem]: <https://github.com/emexlabs/WearableIntelligenceSystem>
+   [Brave]: <https://brave.com/linux/#release-channel-installation>
+   [Tor]: <https://www.torproject.org/download/> 
+   [Libreworlf]: <https://librewolf.net/>
