@@ -69,7 +69,7 @@ The book of forbidden knowledge is a collection of useful resources in the IT fi
 - :yellow_circle: [Qubes OS] - One of the stongest linux distros. Uses compartmentalization by using multiple VMs.
 - :red_circle: [Nix OS] - (:warning: To be finished later)
 - :red_circle: [Slackware] - One of the oldest and still maintained linux distros.
-- 
+
 #### Mobile
 
 ##### AOSP(Android-Open-Source-Project)
