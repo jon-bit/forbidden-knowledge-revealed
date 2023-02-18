@@ -88,30 +88,6 @@ The book of forbidden knowledge is a collection of useful resources in the IT fi
 - :yellow_circle: [Tor] - Tor is a browser made by the U.S. N.R.L. (Navel research laboratory). It is (one of) the only way to access .onion links. When you access onion links you stay in an encrypted network and no one can see your traffic on the exit node. (Diagram coming soon)
 - :green_circle: [Librewolf] - A fork of Firefox. Out of the box better then Firefox for it comes with ublock origin, and other about:config options hardening it.
 
-## Digrams
-### Tor
-#### Reguler Websites
-flowchart LR
-	12["Tor User"] --- 8(("Tor node #1"))
-	1(("Tor node #2")) --- 8(("Tor node #1"))
-	3(("Tor node #3")) --- 1(("Tor node #2"))
-	18["Normal website"] -.- 3(("Tor node #3"))
-	9(("Tor node #1"))
-	13["13"]
-	16(("Tor node #3"))
-
-#### Hidden Service
-flowchart LR
-	12["Tor User"] --- 8(("Tor node #1"))
-	1(("Tor node #2")) --- 8(("Tor node #1"))
-	3(("Tor node #3")) --- 1(("Tor node #2"))
-	3(("Tor node #3")) --- 4(("Hidden Service"))
-	5(("Hidden Service"))
-	7(("Hidden Service"))
-	9(("Tor node #1"))
-	13["13"]
-	16(("Tor node #3"))
-
 ###### Donations 
 
 <img src="https://img.shields.io/badge/xmr-4AiDxbWjPNoYS5xndDfzbzJkmh1HF55Le4KZLwLgSNhN7VSCpY7FuhXQ6jw9uas7AvPHbT8XyjzRoRSNdrGNCA493m1ZYn9-blue">
