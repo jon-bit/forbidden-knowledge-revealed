@@ -1,6 +1,6 @@
 # Forbidden Knowledge Revealed
 ## _Go zero to hero in IT_
-version: 0.0.9 Beta
+version: 0.1.0
 
 The book of forbidden knowledge is a collection of useful resources in the IT field. 
 
