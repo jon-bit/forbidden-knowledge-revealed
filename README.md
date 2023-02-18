@@ -80,7 +80,7 @@ The book of forbidden knowledge is a collection of useful resources in the IT fi
 #### Other
 - :yellow_circle: [Open WRT] - A router firmware that is supported by a handful of good routers. It even supports WPA2/3 enterprise.
 - :yellow_circle: [Asteroid OS] - A ROM for smart watches. Because it is open-source anyone can make a app or another OS out of it.
-- :black_circle: [OpenSourceSmartGlasses] - A Smartglass OS that can be 3D printed and put together by yourself. They also have [WearableIntelligenceSystem] on another repo and their website <img src="https://img.shields.io/badge/untested-no%20comment-lightgrey">
+- :black_circle: [OpenSourceSmartGlasses] - A Smartglass OS that can be 3D printed and put together by yourself. They also have [WearableIntelligenceSystem] on another repo and their website.
 
 ## Browser
 ---------------------------------------
