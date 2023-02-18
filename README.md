@@ -132,4 +132,4 @@ Suggestions are always welcome and encouraged. Please do not hesitate to open a 
    [WearableIntelligenceSystem]: <https://github.com/emexlabs/WearableIntelligenceSystem>
    [Brave]: <https://brave.com/linux/#release-channel-installation>
    [Tor]: <https://www.torproject.org/download/> 
-   [Libreworlf]: <https://librewolf.net/>
+   [Librewolf]: <https://librewolf.net/>
